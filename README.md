@@ -12,11 +12,11 @@
 
 
 &nbsp;
-<p>⚡ Main techs that I use: JavaScript, React, Node.js and Express.</p>
+<p>⚡ Main techs that I use: JavaScript, React, C#, ASP.NET, Node.js and Express.</p>
 
 <p>💡 I'm interested in learning: Ruby (Ruby on Rails) and Elixir (Phoenix).</p>
 
-<p>❤️ My Hoobies include: Movies, TV Shows and a lot of Music (Rock and Roll 🤘).</p>
+<p>❤️ My hoobies include: Movies, TV Shows and a lot of Music (Rock and Roll 🤘).</p>
 
 
 &nbsp;
