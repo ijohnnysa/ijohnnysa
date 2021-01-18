@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=fff&link=https://www.instagram.com/ijohnnysa/)](https://www.instagram.com/ijohnnysa/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=fff&link=https://medium.com/@ijohnnysa)](https://medium.com/@ijohnnysa)
 
-## Jr Web Full Stack Developer 🧑‍💻
+## Jr Web Front End Developer 🤖
 
 ### Hi there, 👋 i'm a self-taught developer and enthusiast of web development technologies, here's a little more about me:
 
