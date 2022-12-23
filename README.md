@@ -2,21 +2,15 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=fff&link=mailto:ijohnnysa@gmail.com)](mailto:ijohnnysa@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/ijohnnysa/)](https://www.linkedin.com/in/ijohnnysa/)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=WhatsApp&logoColor=fff&link=https://api.whatsapp.com/send?phone=5512991346885&text=Hey!)](https://api.whatsapp.com/send?phone=5512991346885&text=Hey!)
-[![Medium Badge](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=fff&link=https://medium.com/@ijohnnysa)](https://medium.com/@ijohnnysa)
 
-## Jr. Full Stack Developer 🤖
+## Web Full Stack Developer 🤖
 
-### Hi there, 👋 i'm a self-taught developer and enthusiast of web development technologies, here's a little more about me:
-
+### Hello, 👋 I'm a developer, information technology manager, IT technician and enthusiast of web development technologies in my spare time, here's a little more about me:
 
 &nbsp;
-<p>⚡ Main techs that I use: JavaScript, React, C#, ASP.NET, Node.js and Express.</p>
-
-<p>💡 I'm interested in learning: Ruby (Ruby on Rails) and Elixir (Phoenix).</p>
+<p>⚡ Main techs that I use: C#, ASP.NET, Typescript, React.</p>
 
 <p>❤️ My hoobies include: Movies, TV Shows and a lot of Music (Rock and Roll 🤘).</p>
-
 
 &nbsp;
 <div>
