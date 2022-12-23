@@ -8,7 +8,7 @@
 ### Hello, 👋 I'm a developer, information technology manager, IT technician and enthusiast of web development technologies in my spare time, here's a little more about me:
 
 &nbsp;
-<p>⚡ Main techs that I use: C#, ASP.NET, Typescript, React.</p>
+<p>⚡ Main techs that I use: C#, ASP.NET, Typescript and React.</p>
 
 <p>❤️ My hoobies include: Movies, TV Shows and a lot of Music (Rock and Roll 🤘).</p>
 
