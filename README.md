@@ -2,6 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=fff&link=mailto:ijohnnysa@gmail.com)](mailto:ijohnnysa@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/ijohnnysa/)](https://www.linkedin.com/in/ijohnnysa/)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=WhatsApp&logoColor=fff&link=https://api.whatsapp.com/send?phone=5512991346885&text=Hey!)](https://api.whatsapp.com/send?phone=5512991346885&text=Hey!)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=fff&link=https://www.instagram.com/ijohnnysa/)](https://www.instagram.com/ijohnnysa/)
 
 ## Web Full Stack Developer 🤖
 
